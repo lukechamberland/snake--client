@@ -13,10 +13,14 @@ This game is private and not accessable to everyone. For this game one must impl
 
 Use the following code from the command line to play the game:
 
-git clone https://github.com/lighthouse-labs/snek-multiplayer.git
-cd snek-multiplayer
-npm install
-npm run play
+git clone https://github.com/lighthouse-labs/snek-multiplayer.git  
+
+cd snek-multiplayer  
+
+npm install  
+
+npm run play  
+
 
 ## Credit
 
