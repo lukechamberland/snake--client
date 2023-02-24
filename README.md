@@ -18,7 +18,7 @@ cd snek-multiplayer
 npm install
 npm run play
 
-## credit
+## Credit
 
 This game was created by Tania Rascia and was inspired from a blog post.  If you wish to view her website you can so !['here'] (https://www.taniarascia.com/).
 
