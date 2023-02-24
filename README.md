@@ -7,11 +7,26 @@ This is simply a multiplayer version the genre.
 
 To execute this client, you must first have the server-side running, which can be downloaded and installed from this location.
 
+## Where to find the game
+
+This game is private and not accessable to everyone. For this game one must implement a game client.
+
+Use the following code from the command line to play the game:
+
+git clone https://github.com/lighthouse-labs/snek-multiplayer.git
+cd snek-multiplayer
+npm install
+npm run play
+
+## credit
+
+This game was created by Tania Rascia and was inspired from a blog post.  If you wish to view her website you can so !['here'] (https://www.taniarascia.com/).
+
 ## Final Product
 
-!["This is the starting point of the game. You will randomly spawn at any single point within the game, and navigate from there."](#)
+!["Random point in snake game"](https://github.com/lukechamberland/snake--client/blob/5dc73bbd31eab025122dcdb4ce4f3d424ddaba56/images/randomPointSS.png)
 
-!["This is a random point in the game after some progress has been made. You can see that the snake is growing and therefor we are accomplishing our goal of the game."](#)
+!["Starting point"](https://github.com/lukechamberland/snake--client/blob/5dc73bbd31eab025122dcdb4ce4f3d424ddaba56/images/startingPointss.png)
 
 
 ## Getting Started
