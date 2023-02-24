@@ -32,19 +32,19 @@ const handleUserInput = function(key) {
       connection.write("Move: right");
     }
     if (key === 'z'){
-      connection.write("Say: Hello!")
+      connection.write("Say: Hello!");
     }
     if (key === 'x'){
-      connection.write("Say: I")
+      connection.write("Say: I");
     }
     if (key === 'c'){
-      connection.write("Say: am")
+      connection.write("Say: am");
     }
     if (key === 'v'){
-      connection.write("Say: a")
+      connection.write("Say: a");
     }
     if (key === 'b'){
-      connection.write("Say: SNAKE!!!")
+      connection.write("Say: SNAKE!!!");
     }
   }
 };
